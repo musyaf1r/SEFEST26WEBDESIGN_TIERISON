@@ -1,7 +1,7 @@
 # SEFEST26WEBDESIGN_TIERISON
 
 ## Deskripsi Proyek
-TIERISON - Custom PC Builder adalah sebuah platform web interaktif yang dirancang untuk membantu pengguna merakit komputer impian mereka secara mandiri. Web ini memberikan pengalaman simulasi perakitan PC yang intuitif dengan berbagai pilihan komponen teknis.
+SPECRE - Custom PC Builder adalah sebuah platform web interaktif yang dirancang untuk membantu pengguna merakit komputer impian mereka secara mandiri. Web ini memberikan pengalaman simulasi perakitan PC yang intuitif dengan berbagai pilihan komponen teknis.
 
 ### Fitur Utama:
 * Custom Builder: Pengguna dapat memilih komponen PC secara mendetail mulai dari Case, CPU, GPU, RAM, Power Supply (PSU), hingga Fan.
